@@ -17,12 +17,9 @@ public class UniverseTest {
         sunSystem.add(new Planet("Jupiter"));
 
         milky.add(sunSystem);
+
         milky.add(new Planet("Kepler 99"));
         milky.add(new Asteroid("Apokalipsis"));
-
-
-        milky.add(new Galaxy("XXX"));
-
         milky.info();
     }
 }
