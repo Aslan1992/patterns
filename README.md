@@ -1,3 +1,3 @@
-# patterns
-Just most popular design patterns with formal code and my personal examples.
-Here it will be added new patterns as soon as I will be knowing new ones.
+# Design patterns
+The most popular design patterns with formal code and my personal examples just as I understood them.
+Hope it will be added new ones as soon as possibile.
